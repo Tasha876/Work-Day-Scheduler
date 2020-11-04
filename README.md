@@ -14,7 +14,7 @@ A simple calendar app for scheduling your work day.
 ## 1. Description
 This is a very basic planner that you can use to plan your day.
 
-#### Note:
+### Note:
 I changed the look of the planner, because I didn't like the original styling.
 
 ### Summary of Functionality
@@ -40,13 +40,13 @@ Should you find an issue with this webpage, please create a [new issue](https://
 This is a very basic planner and several features could be added, some of these include (but are in no way limited to):
 - the ability to add items that are either less than or more than 1 hour
 - the ability to add descriptions to each event
-- the ability to add to more than one day
+- the ability to add to more than one day at a time
 - the ability to add events to hours outside of the workday, but still have the next set of workday hours be on focus when the planner is first opened
-- better UI possibly including a datk mode
+- better UI possibly including a dark mode
 
 <a name="acknowledge"></a>
 ## 6. Authors and Acknowledgement
-This site was created entirely by Natasha Fray using the [jQuery](https://jquery.com/).
+This site was created entirely by Natasha Fray using [jQuery](https://jquery.com/).
 
 <a name="license"></a>
 ## 7. License
