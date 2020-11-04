@@ -1,0 +1,94 @@
+body {
+  font-family: 'helvetica', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+/* * {
+  border: 1px solid red;
+  box-sizing: border-box;
+} */
+
+input{
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  overflow: auto;
+  font-size: 2em;
+  outline: none;
+  padding: 0;
+  margin: ;
+}
+
+input:focus {
+  outline: none;
+  vertical-align: middle;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+.description{
+  white-space: pre-wrap;
+}
+
+.time-block{
+  text-align: center;
+  border-radius: 15px;
+}
+
+.row {
+  box-sizing: content-box !important;
+  white-space: pre-wrap;
+  height: 80px !important;
+}
+
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.past, .past input{
+  /* background-color:grey; */
+  color: lightGrey;
+}
+
+.present, .present input {
+  background-color: black;
+  color: white;
+}
+
+.future, .future input {
+  color: black;
+
+}
+
+.hasContent:hover i   {
+  color: goldenRod !important;
+}
+
+.hasContent i {
+  animation-name: active;
+  animation-duration: .3s;
+  animation-fill-mode: forwards;
+}
+
+.present .hasContent i {
+  color: white
+}
+
+.past .hasContent i, .future .hasContent i {
+  color: black;
+  opacity: 0.2;
+}
+
+@keyframes active {
+  from {opacity: 0}
+  to {color: 1};
+}
