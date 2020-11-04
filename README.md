@@ -15,7 +15,7 @@ A simple calendar app for scheduling your work day.
 This is a very basic planner that you can use to plan your day.
 
 ### Note:
-I changed the look of the planner, because I didn't like the original styling.
+I changed the look of the planner because I didn't like the original styling.
 
 ### Summary of Functionality
 
