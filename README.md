@@ -46,7 +46,7 @@ This is a very basic planner and several features could be added, some of these 
 
 <a name="acknowledge"></a>
 ## 6. Authors and Acknowledgement
-This site was created by Natasha Fray using [jQuery](https://jquery.com/), the styling and the idea of the website was provided by the [UofT SCS Coding Bootcamp](https://bootcamp.learn.utoronto.ca/).
+This site was created by Natasha Fray using [jQuery](https://jquery.com/), *most of* the styling and the idea of the website was provided by the [UofT SCS Coding Bootcamp](https://bootcamp.learn.utoronto.ca/).
 
 <a name="license"></a>
 ## 7. License
